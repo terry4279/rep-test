@@ -15,3 +15,6 @@ test 6
 test 9
 
 test 10
+
+terry comment
+> gitのお勉強、いいですね！！！
